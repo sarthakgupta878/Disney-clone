@@ -17,3 +17,10 @@ function App() {
 }
 
 export default App;
+// auth.signInWithPopup(provider)
+//             .then((result)=>{
+//                 console.log(result);
+//             })
+//             .catch((error)=>{
+//                 alert(error.message);
+//             });

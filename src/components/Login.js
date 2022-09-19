@@ -27,7 +27,7 @@ const Container = styled.section`
 `;
 
 const Content = styled.div`
-    margin-bottom:10vw;
+    // margin-bottom:10vw;
     width:100%;
     // position:relative;
     // min-height:100vh;
